@@ -1,0 +1,6 @@
+    GET /lorem/_search
+    {
+        "query": {
+            "match_all": { }
+        }
+    }
